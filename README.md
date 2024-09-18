@@ -1,1 +1,1 @@
-This is an implementation of double dimensional(2D) array class  in java with methods including insert, traverse, serach, and delete.
+This is an implementation of double dimensional(2D) array class  in java with methods including insert, traverse, search, and delete.
